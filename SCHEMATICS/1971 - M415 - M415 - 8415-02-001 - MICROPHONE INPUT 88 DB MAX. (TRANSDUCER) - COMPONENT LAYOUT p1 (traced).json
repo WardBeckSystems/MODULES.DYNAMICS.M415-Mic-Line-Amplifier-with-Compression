@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/416563c899058fda-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 94.3, 268.6, 431.8],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 17, "mm": 16.6}, "curved": {"n": 7, "mm": 10.3}},
+  "text": {"rings": 199, "straight": {"n": 1796, "mm": 1809.1}, "curved": {"n": 408, "mm": 595.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [42.1, 366.6, 90.7, 374.8], "text": "Des igned and"},
+   {"mm": [93.1, 367.2, 142.5, 375.4], "text": "Manufactured"},
+   {"mm": [82.0, 360.6, 91.1, 367.5], "text": "By"},
+   {"mm": [42.1, 354.1, 78.8, 361.0], "text": "Na rd-Beck"},
+   {"mm": [82.0, 353.6, 110.5, 361.1], "text": "Systems"},
+   {"mm": [113.3, 354.1, 142.9, 362.2], "text": "Limited"},
+   {"mm": [42.1, 347.6, 54.6, 354.6], "text": "841"},
+   {"mm": [57.4, 346.3, 119.2, 354.9], "text": "Progress Avenue"},
+   {"mm": [42.1, 340.0, 87.9, 347.7], "text": "Scarborough"},
+   {"mm": [93.9, 341.1, 123.7, 348.1], "text": "Ontario"},
+   {"mm": [42.5, 333.6, 62.6, 341.2], "text": "(416 )"},
+   {"mm": [70.0, 334.4, 103.0, 342.1], "text": "438-6550"},
+   {"mm": [42.3, 327.1, 103.2, 335.2], "text": "Telex 06-23469"},
+   {"mm": [220.2, 100.4, 237.5, 107.4], "text": "M415"},
+   {"mm": [188.0, 92.8, 270.3, 101.4], "text": "COMPRESSOR AMPLIFIER"}
+  ]
+ },
+ "title_block": {
+  "mm": [35.4, 344.9, 117.3, 369.7],
+  "from": "title-block words (training set)",
+  "text": ["By", "Na rd-Beck", "Systems", "841", "Progress Avenue", "Ontario"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–269 mm across, 94–432 mm up",
+  "- **Outlines:** line 4 rings, 17 straight (16.6 mm) / 7 curved (10.3 mm); text 199 rings, 1,796 straight (1,809 mm) / 408 curved (596 mm)",
+  "- **Words (OCR):** 19 in 15 lines: Des igned and · Manufactured · By · Na rd-Beck · Systems · Limited · 841 · Progress Avenue · Scarborough · Ontario · (416 ) · 438-6550",
+  "- **Title block:** (35, 345)–(117, 370) mm: By · Na rd-Beck · Systems · 841 · Progress Avenue · Ontario"
+ ]
+}

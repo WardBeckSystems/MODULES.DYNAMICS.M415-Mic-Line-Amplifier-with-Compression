@@ -1,0 +1,114 @@
+{
+ "drawing": "Modules/DYNAMICS/M415/MECHANICAL/1971 - 415-03-006 - MOUNTING BAR - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/cfc06ef34d367435.svg",
+ "sheet": {
+  "number": "B 415-03-006",
+  "title": "M415 / MOUNTING BAR",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 8.9, 431.2, 297.3],
+ "outlines": {
+  "line": {"rings": 221, "straight": {"n": 5072, "mm": 8794.0}, "curved": {"n": 714, "mm": 996.2}},
+  "text": {"rings": 238, "straight": {"n": 1887, "mm": 2151.1}, "curved": {"n": 555, "mm": 862.8}},
+  "tb": {"rings": 15, "straight": {"n": 181, "mm": 178.3}, "curved": {"n": 27, "mm": 41.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4092, "straight": {"n": 4287, "mm": 4893.3}, "curved": {"n": 107, "mm": 119.2}},
+   "text": {"paths": 1625, "straight": {"n": 2133, "mm": 1638.3}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 135, "straight": {"n": 145, "mm": 427.4}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 50,
+  "orientation": {"horizontal": {"n": 1767, "mm": 3245.1}, "vertical": {"n": 1619, "mm": 1611.6}, "diagonal": {"n": 3179, "mm": 2102.2}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [193.3, 177.9], "r": 4.1, "kind": "arc", "span": 184, "from": ["centre line"], "start": 180},
+  {"c": [108.9, 177.7], "r": 4.0, "kind": "circle", "span": 280, "from": ["centre line"]},
+  {"c": [239.3, 177.4], "r": 2.3, "kind": "arc", "span": 85, "from": ["centre line"], "start": 177},
+  {"c": [108.3, 178.2], "r": 2.1, "kind": "arc", "span": 182, "from": ["centre line"], "start": 182},
+  {"c": [180.9, 23.6], "r": 2.0, "kind": "arc", "span": 106, "from": ["centre line"], "start": 327},
+  {"c": [62.8, 178.8], "r": 2.0, "kind": "arc", "span": 94, "from": ["centre line"], "start": 88},
+  {"c": [193.3, 178.1], "r": 1.8, "kind": "arc", "span": 99, "from": ["centre line"], "start": 185},
+  {"c": [194.1, 178.1], "r": 1.7, "kind": "arc", "span": 104, "from": ["centre line"], "start": 97},
+  {"c": [194.2, 177.2], "r": 1.7, "kind": "arc", "span": 112, "from": ["centre line"], "start": 11},
+  {"c": [240.0, 176.9], "r": 1.6, "kind": "arc", "span": 106, "from": ["centre line"], "start": 4},
+  {"c": [230.7, 11.3], "r": 1.5, "kind": "arc", "span": 117, "from": ["centre line"], "start": 68},
+  {"c": [234.6, 15.3], "r": 1.4, "kind": "arc", "span": 195, "from": ["centre line"], "start": 259},
+  {"c": [312.6, 12.8], "r": 1.3, "kind": "arc", "span": 157, "from": ["centre line"], "start": 206},
+  {"c": [258.5, 15.3], "r": 1.3, "kind": "arc", "span": 178, "from": ["centre line"], "start": 210},
+  {"c": [201.7, 16.1], "r": 1.2, "kind": "arc", "span": 176, "from": ["centre line"], "start": 205},
+  {"c": [323.8, 148.3], "r": 1.1, "kind": "arc", "span": 249, "from": ["centre line"], "start": 21},
+  {"c": [193.4, 16.6], "r": 1.1, "kind": "arc", "span": 146, "from": ["centre line"], "start": 200},
+  {"c": [311.4, 211.0], "r": 1.1, "kind": "arc", "span": 260, "from": ["centre line"], "start": 140},
+  {"c": [258.5, 14.6], "r": 1.1, "kind": "arc", "span": 163, "from": ["centre line"], "start": 351},
+  {"c": [302.0, 15.5], "r": 1.0, "kind": "arc", "span": 176, "from": ["centre line"], "start": 287},
+  {"c": [2.9, 179.5], "r": 1.0, "kind": "arc", "span": 187, "from": ["centre line"], "start": 292},
+  {"c": [1.0, 10.2], "r": 1.0, "kind": "arc", "span": 162, "from": ["centre line"], "start": 345},
+  {"c": [223.5, 10.4], "r": 1.0, "kind": "arc", "span": 127, "from": ["centre line"], "start": 333},
+  {"c": [315.9, 226.9], "r": 1.0, "kind": "arc", "span": 266, "from": ["centre line"], "start": 222},
+  {"c": [236.3, 12.1], "r": 0.9, "kind": "arc", "span": 261, "from": ["centre line"], "start": 211},
+  {"c": [86.4, 86.0], "r": 0.8, "kind": "arc", "span": 200, "from": ["centre line"], "start": 280},
+  {"c": [202.0, 14.9], "r": 0.7, "kind": "arc", "span": 181, "from": ["centre line"], "start": 39}
+ ],
+ "boxes": [
+  {"mm": [298.2, 171.4, 300.7, 184.2], "w": 2.6, "h": 12.7, "from": "ring"},
+  {"mm": [176.2, 9.7, 189.8, 55.7], "w": 13.6, "h": 46.0, "from": "ring", "words": ["DRN", "ChkD", "TOLs"]}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [257.8, 224.5, 280.5, 230.1], "text": "2 holes"},
+   {"mm": [286.1, 224.3, 305.3, 232.5], "text": "32 DIA"},
+   {"mm": [323.4, 223.2, 341.8, 230.9], "text": "32 \"To"},
+   {"mm": [344.6, 223.5, 363.1, 233.1], "text": "6 DiA ."},
+   {"mm": [146.4, 208.6, 161.5, 215.0], "text": "250"},
+   {"mm": [278.7, 204.7, 315.4, 210.2], "text": "2 Holes 32"},
+   {"mm": [318.5, 204.0, 328.6, 209.5], "text": "DIA"},
+   {"mm": [3.5, 83.1, 79.7, 90.1], "text": "ReMovE ALL Burrs"},
+   {"mm": [92.6, 83.1, 139.0, 89.3], "text": "SHARP EDGES"},
+   {"mm": [177.3, 48.1, 188.0, 53.7], "text": "DRN"},
+   {"mm": [191.1, 47.3, 208.3, 53.8], "text": "D.P s_"},
+   {"mm": [310.0, 44.3, 403.5, 54.5], "text": "MARD BECK SYSTEDIS Lid"},
+   {"mm": [245.3, 44.3, 256.7, 49.1], "text": "120"},
+   {"mm": [261.7, 43.4, 278.5, 49.9], "text": "GriT"},
+   {"mm": [177.0, 38.0, 256.9, 45.0], "text": "DATEI7 APRiL 1971 ANODIZE"},
+   {"mm": [265.8, 37.8, 288.7, 45.0], "text": "BLAck"},
+   {"mm": [326.4, 33.7, 349.1, 40.2], "text": "M 415"},
+   {"mm": [229.1, 31.3, 251.7, 36.6], "text": "MATEMIAL"},
+   {"mm": [176.8, 29.8, 189.8, 35.1], "text": "ChkD"},
+   {"mm": [312.6, 25.0, 378.3, 32.0], "text": "MOUNTING BAR"},
+   {"mm": [230.4, 21.8, 289.3, 30.0], "text": "3 ThK AL ALLoY"},
+   {"mm": [194.1, 19.4, 210.3, 24.2], "text": "N-Ts"},
+   {"mm": [176.8, 11.2, 189.1, 16.7], "text": "TOLs"},
+   {"mm": [267.9, 12.5, 282.0, 17.3], "text": "GivEN"},
+   {"mm": [324.3, 8.4, 378.3, 14.9], "text": "415-03-006"},
+   {"mm": [391.2, 8.4, 400.5, 14.9], "text": "ISS:"}
+  ]
+ },
+ "title_block": {
+  "mm": [168.4, 32.0, 361.9, 60.6],
+  "from": "title-block words (training set)",
+  "text": ["DRN", "D.P s_", "MARD BECK SYSTEDIS Lid", "120", "GriT", "DATEI7 APRiL 1971 ANODIZE", "BLAck", "M 415", "MATEMIAL", "ChkD"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 415-03-006, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–431 mm across, 9–297 mm up",
+  "- **Outlines:** line 221 rings, 5,072 straight (8,794 mm) / 714 curved (996 mm); text 238 rings, 1,887 straight (2,151 mm) / 555 curved (863 mm); tb 15 rings, 181 straight (178 mm) / 27 curved (41.2 mm)",
+  "- **Centre lines:** 5,852 paths (50 closed); straight 6,959 mm, curved 119 mm; horizontal 3,245 mm, vertical 1,612 mm, diagonal 2,102 mm",
+  "- **Circles and arcs:** 1 circles, 26 arcs; largest r 4.0 @ (108.9, 177.7)",
+  "- **Closed boxes:** 2; named: DRN ChkD TOLs",
+  "- **Words (OCR):** 38 in 26 lines: 2 holes · 32 DIA · 32 \"To · 6 DiA . · 250 · 2 Holes 32 · DIA · ReMovE ALL Burrs · SHARP EDGES · DRN · D.P s_ · MARD BECK SYSTEDIS Lid",
+  "- **Title block:** (168, 32)–(362, 61) mm: DRN · D.P s_ · MARD BECK SYSTEDIS Lid · 120 · GriT · DATEI7 APRiL 1971 ANODIZE · BLAck · M 415 · MATEMIAL · ChkD"
+ ]
+}

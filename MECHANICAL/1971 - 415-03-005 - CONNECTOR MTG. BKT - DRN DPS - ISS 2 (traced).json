@@ -1,0 +1,110 @@
+{
+ "drawing": "Modules/DYNAMICS/M415/MECHANICAL/1971 - 415-03-005 - CONNECTOR MTG. BKT - DRN DPS - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/77ee3901fc36cabd.svg",
+ "sheet": {
+  "number": "B 415-03-005",
+  "title": "CONNECTOR MTG. BKT",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 10.5, 430.9, 298.2],
+ "outlines": {
+  "line": {"rings": 238, "straight": {"n": 5288, "mm": 9862.4}, "curved": {"n": 702, "mm": 981.4}},
+  "text": {"rings": 191, "straight": {"n": 1463, "mm": 1750.7}, "curved": {"n": 456, "mm": 726.6}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4597, "straight": {"n": 4803, "mm": 5878.8}, "curved": {"n": 86, "mm": 90.5}},
+   "text": {"paths": 1995, "straight": {"n": 2488, "mm": 1768.3}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 54,
+  "orientation": {"horizontal": {"n": 2027, "mm": 3886.7}, "vertical": {"n": 1797, "mm": 1550.4}, "diagonal": {"n": 3467, "mm": 2210.0}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [263.5, 50.6], "r": 3.1, "kind": "arc", "span": 84, "from": ["centre line"], "start": 228},
+  {"c": [196.6, 41.7], "r": 2.1, "kind": "arc", "span": 84, "from": ["centre line"], "start": 311},
+  {"c": [266.3, 48.5], "r": 2.1, "kind": "arc", "span": 115, "from": ["centre line"], "start": 306},
+  {"c": [270.3, 51.5], "r": 1.9, "kind": "arc", "span": 145, "from": ["centre line"], "start": 183},
+  {"c": [270.1, 10.6], "r": 1.9, "kind": "arc", "span": 99, "from": ["centre line"], "start": 134},
+  {"c": [264.8, 52.2], "r": 1.9, "kind": "arc", "span": 179, "from": ["centre line"], "start": 349},
+  {"c": [289.6, 53.5], "r": 1.8, "kind": "arc", "span": 113, "from": ["centre line"], "start": 151},
+  {"c": [200.0, 216.0], "r": 1.6, "kind": "arc", "span": 96, "from": ["centre line"], "start": 92},
+  {"c": [198.4, 22.4], "r": 1.6, "kind": "arc", "span": 115, "from": ["centre line"], "start": 133},
+  {"c": [93.7, 215.7], "r": 1.6, "kind": "arc", "span": 103, "from": ["centre line"], "start": 6},
+  {"c": [242.0, 47.7], "r": 1.4, "kind": "arc", "span": 252, "from": ["centre line"], "start": 82},
+  {"c": [298.6, 48.0], "r": 1.3, "kind": "arc", "span": 244, "from": ["centre line"], "start": 138},
+  {"c": [189.5, 41.2], "r": 1.3, "kind": "arc", "span": 150, "from": ["centre line"], "start": 160},
+  {"c": [92.9, 215.7], "r": 1.3, "kind": "arc", "span": 108, "from": ["centre line"], "start": 279},
+  {"c": [197.8, 41.3], "r": 1.3, "kind": "arc", "span": 148, "from": ["centre line"], "start": 154},
+  {"c": [281.3, 52.6], "r": 1.2, "kind": "arc", "span": 124, "from": ["centre line"], "start": 235},
+  {"c": [198.0, 22.2], "r": 1.2, "kind": "arc", "span": 184, "from": ["centre line"], "start": 317},
+  {"c": [67.8, 191.6], "r": 1.1, "kind": "arc", "span": 146, "from": ["centre line"], "start": 6},
+  {"c": [329.3, 51.6], "r": 1.1, "kind": "arc", "span": 172, "from": ["centre line"], "start": 255},
+  {"c": [270.7, 39.6], "r": 1.1, "kind": "arc", "span": 165, "from": ["centre line"], "start": 196},
+  {"c": [229.1, 126.3], "r": 1.0, "kind": "arc", "span": 226, "from": ["centre line"], "start": 169},
+  {"c": [231.7, 36.1], "r": 1.0, "kind": "arc", "span": 143, "from": ["centre line"], "start": 27},
+  {"c": [285.2, 54.2], "r": 1.0, "kind": "arc", "span": 127, "from": ["centre line"], "start": 153},
+  {"c": [409.8, 12.1], "r": 1.0, "kind": "arc", "span": 130, "from": ["centre line"], "start": 334},
+  {"c": [268.6, 48.6], "r": 0.9, "kind": "arc", "span": 165, "from": ["centre line"], "start": 227},
+  {"c": [50.9, 11.8], "r": 0.9, "kind": "arc", "span": 158, "from": ["centre line"], "start": 349},
+  {"c": [247.5, 48.3], "r": 0.8, "kind": "arc", "span": 226, "from": ["centre line"], "start": 203}
+ ],
+ "boxes": [
+  {"mm": [89.6, 210.6, 204.2, 221.9], "w": 114.6, "h": 11.4, "from": "ring"},
+  {"mm": [97.2, 128.2, 195.6, 137.7], "w": 98.5, "h": 9.5, "from": "ring"},
+  {"mm": [186.8, 44.5, 200.6, 54.0], "w": 13.8, "h": 9.5, "from": "ring", "words": ["Tols"]},
+  {"mm": [319.1, 16.6, 423.5, 45.1], "w": 104.4, "h": 28.5, "from": "ring", "words": ["BKT", "MTG_", "CONNECTOR"]},
+  {"mm": [265.8, 35.0, 278.7, 44.5], "w": 13.0, "h": 9.5, "from": "ring"},
+  {"mm": [186.8, 25.7, 265.1, 44.3], "w": 78.3, "h": 18.6, "from": "ring", "words": ["GRIT", "129", "BLAcK", "ANODIZE"]},
+  {"mm": [265.8, 25.9, 278.9, 35.0], "w": 13.2, "h": 9.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [138.0, 195.4, 144.9, 199.7], "text": "3 2"},
+   {"mm": [129.8, 157.2, 152.0, 162.7], "text": "4.031"},
+   {"mm": [292.5, 146.6, 315.6, 153.1], "text": "HoLes"},
+   {"mm": [321.7, 146.4, 346.3, 153.5], "text": "Ya DIA"},
+   {"mm": [285.4, 138.4, 313.5, 143.9], "text": "REMOVE"},
+   {"mm": [320.0, 138.0, 356.5, 144.4], "text": "ALL Burrs"},
+   {"mm": [367.2, 137.7, 411.5, 143.3], "text": "SHARP EDGE S"},
+   {"mm": [47.7, 131.3, 56.3, 135.6], "text": "(lq"},
+   {"mm": [65.0, 114.4, 73.6, 119.9], "text": "0i9"},
+   {"mm": [137.1, 112.5, 145.1, 119.0], "text": "25"},
+   {"mm": [131.3, 107.7, 145.3, 114.7], "text": "3 32"},
+   {"mm": [204.0, 44.3, 236.2, 55.3], "text": "RZEE"},
+   {"mm": [350.6, 44.9, 400.7, 54.5], "text": "BECK SUSIENS"},
+   {"mm": [187.6, 46.9, 199.9, 52.4], "text": "Tols"},
+   {"mm": [282.4, 35.4, 297.5, 42.4], "text": "D.P"},
+   {"mm": [193.4, 32.4, 204.9, 37.2], "text": "129"},
+   {"mm": [209.4, 31.5, 225.6, 38.0], "text": "GRIT"},
+   {"mm": [368.8, 28.9, 385.4, 35.4], "text": "MTG_"},
+   {"mm": [390.3, 27.9, 406.5, 36.0], "text": "BKT"},
+   {"mm": [187.8, 26.8, 220.2, 33.2], "text": "ANODIZE"},
+   {"mm": [227.8, 27.2, 250.9, 33.7], "text": "BLAcK"},
+   {"mm": [265.6, 26.8, 315.2, 33.7], "text": "pare 6APRIL 1971"},
+   {"mm": [319.7, 28.3, 365.7, 35.2], "text": "CONNECTOR"},
+   {"mm": [187.8, 12.1, 264.0, 19.5], "text": "I4GA (064) AL ALLoy"},
+   {"mm": [337.7, 8.6, 393.2, 15.1], "text": "415-03-005"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical B 415-03-005, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–431 mm across, 10–298 mm up",
+  "- **Outlines:** line 238 rings, 5,288 straight (9,862 mm) / 702 curved (981 mm); text 191 rings, 1,463 straight (1,751 mm) / 456 curved (727 mm)",
+  "- **Centre lines:** 6,592 paths (54 closed); straight 7,647 mm, curved 90.5 mm; horizontal 3,887 mm, vertical 1,550 mm, diagonal 2,210 mm",
+  "- **Circles and arcs:** 0 circles, 27 arcs",
+  "- **Closed boxes:** 7; named: Tols; BKT MTG_ CONNECTOR; GRIT 129 BLAcK ANODIZE",
+  "- **Words (OCR):** 30 in 25 lines: 3 2 · 4.031 · HoLes · Ya DIA · REMOVE · ALL Burrs · SHARP EDGE S · (lq · 0i9 · 25 · 3 32 · RZEE"
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/416563c899058fda-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 37.4, 331.2, 431.8],
+ "outlines": {
+  "line": {"rings": 59, "straight": {"n": 874, "mm": 1494.8}, "curved": {"n": 146, "mm": 218.2}},
+  "text": {"rings": 238, "straight": {"n": 2515, "mm": 2747.8}, "curved": {"n": 750, "mm": 1083.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [139.5, 406.5, 153.9, 411.6], "text": "M415"},
+   {"mm": [160.0, 406.8, 188.3, 411.8], "text": "CONTROL"},
+   {"mm": [192.2, 407.0, 215.9, 412.0], "text": "SYSTEM"},
+   {"mm": [36.9, 390.6, 77.1, 395.6], "text": "PRELII{INARY"},
+   {"mm": [84.8, 390.8, 112.9, 395.8], "text": "TU}TE 7L."},
+   {"mm": [144.2, 391.2, 210.9, 396.2], "text": "PARTS LIST CONTID"},
+   {"mm": [283.9, 391.2, 299.9, 396.7], "text": "Page"},
+   {"mm": [267.9, 368.5, 314.6, 373.6], "text": "PART hTUMBER"},
+   {"mm": [37.1, 367.7, 61.7, 372.7], "text": "SYMBOL"},
+   {"mm": [80.3, 367.9, 123.3, 372.9], "text": "DESCRIPTTON"},
+   {"mm": [187.6, 368.3, 234.9, 373.4], "text": "MANUFACTURER"},
+   {"mm": [36.9, 352.1, 53.8, 358.1], "text": "R106"},
+   {"mm": [80.7, 352.3, 113.6, 358.3], "text": "150 ohms"},
+   {"mm": [36.9, 344.6, 53.8, 350.6], "text": "R107"},
+   {"mm": [81.2, 344.8, 92.8, 350.8], "text": "420"},
+   {"mm": [36.9, 336.8, 54.2, 342.8], "text": "R108"},
+   {"mm": [80.7, 337.0, 93.9, 343.0], "text": "l-oK"},
+   {"mm": [37.1, 321.5, 52.7, 327.5], "text": "S9il2"},
+   {"mm": [88.5, 321.9, 102.3, 327.9], "text": "Pole"},
+   {"mm": [116.2, 322.1, 173.6, 328.6], "text": "pos. SIII Recovery"},
+   {"mm": [187.8, 322.3, 201.4, 328.3], "text": "Alco"},
+   {"mm": [239.4, 322.6, 271.2, 328.1], "text": "MRA-2-5S"},
+   {"mm": [239.6, 307.2, 281.5, 313.2], "text": "u6A7739393"},
+   {"mm": [37.1, 306.6, 53.3, 312.1], "text": "Z,L-B"},
+   {"mm": [81.0, 306.6, 111.4, 312.1], "text": "Integrated"},
+   {"mm": [124.4, 306.8, 143.8, 312.3], "text": "Circuit"},
+   {"mm": [188.3, 307.0, 217.2, 313.0], "text": "Fairchild"},
+   {"mm": [93.3, 301.8, 96.7, 306.4], "text": "rt"},
+   {"mm": [137.3, 302.0, 140.6, 306.6], "text": "rl"},
+   {"mm": [201.2, 302.7, 202.9, 305.3], "text": "It"},
+   {"mm": [253.0, 302.7, 254.5, 305.3], "text": "tl"},
+   {"mm": [36.7, 299.0, 42.3, 303.6], "text": "z3"}
+  ]
+ },
+ "dots": [{"c": [118.0, 309.9], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–331 mm across, 37–432 mm up",
+  "- **Outlines:** line 59 rings, 874 straight (1,495 mm) / 146 curved (218 mm); text 238 rings, 2,515 straight (2,748 mm) / 750 curved (1,084 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 39 in 32 lines: M415 · CONTROL · SYSTEM · PRELII{INARY · TU}TE 7L. · PARTS LIST CONTID · Page · PART hTUMBER · SYMBOL · DESCRIPTTON · MANUFACTURER · R106"
+ ]
+}

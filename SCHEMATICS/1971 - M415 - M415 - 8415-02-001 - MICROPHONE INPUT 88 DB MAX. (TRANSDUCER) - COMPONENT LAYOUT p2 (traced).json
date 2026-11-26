@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/DYNAMICS/M415/SCHEMATICS/1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/416563c899058fda-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1547, 2000],
+  "mm": [334.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 37.6, 334.0, 431.8],
+ "outlines": {
+  "line": {"rings": 63, "straight": {"n": 574, "mm": 1202.6}, "curved": {"n": 118, "mm": 175.0}},
+  "text": {"rings": 374, "straight": {"n": 3433, "mm": 3653.6}, "curved": {"n": 1063, "mm": 1620.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [127.2, 396.6, 152.2, 402.1], "text": "MANUAL"},
+   {"mm": [160.2, 396.8, 177.9, 402.3], "text": "INDE4"},
+   {"mm": [103.8, 381.1, 120.0, 386.6], "text": "M4T5"},
+   {"mm": [127.6, 381.3, 209.2, 386.8], "text": "COMPRESSOR AMPLIFIER"},
+   {"mm": [54.8, 328.8, 87.0, 334.8], "text": "Technical"},
+   {"mm": [94.8, 329.0, 110.1, 335.0], "text": "Data"},
+   {"mm": [190.6, 329.2, 214.0, 335.2], "text": "Pages)"},
+   {"mm": [54.8, 313.7, 87.9, 319.7], "text": "Operating"},
+   {"mm": [95.0, 313.9, 131.7, 319.9], "text": "Proced.ure"},
+   {"mm": [190.6, 314.1, 214.0, 320.1], "text": "Pages)"},
+   {"mm": [85.1, 298.6, 90.9, 304.6], "text": "st"},
+   {"mm": [190.9, 298.8, 214.8, 304.8], "text": "Pages)"},
+   {"mm": [27.6, 298.4, 38.4, 304.4], "text": "3a)"},
+   {"mm": [27.6, 283.0, 38.2, 289.0], "text": "3b)"},
+   {"mm": [54.8, 283.0, 79.0, 289.0], "text": "Control"},
+   {"mm": [87.4, 283.3, 110.8, 289.3], "text": "system"},
+   {"mm": [114.9, 283.5, 148.5, 289.7], "text": "parts list"},
+   {"mm": [190.6, 283.5, 214.0, 289.5], "text": "Pages)"},
+   {"mm": [54.8, 267.7, 87.4, 273.7], "text": "Drawings-"},
+   {"mm": [62.8, 252.6, 128.5, 258.6], "text": "4L5-02-001 M415"},
+   {"mm": [130.6, 252.8, 171.0, 258.8], "text": "Compressor"},
+   {"mm": [174.7, 252.8, 249.8, 259.0], "text": "Amplifier Schematic"},
+   {"mm": [63.0, 237.5, 171.0, 243.5], "text": "415-02-OOZ M415 Compressor"},
+   {"mm": [174.9, 237.5, 270.1, 243.7], "text": "Control System Schematic"},
+   {"mm": [63.3, 222.4, 173.8, 228.4], "text": "L-116-06-00l M415 Compressor"},
+   {"mm": [179.0, 222.6, 258.4, 228.6], "text": "PCB Component Layout,"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1547 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 38–432 mm up",
+  "- **Outlines:** line 63 rings, 574 straight (1,203 mm) / 118 curved (175 mm); text 374 rings, 3,433 straight (3,654 mm) / 1,063 curved (1,621 mm)",
+  "- **Words (OCR):** 38 in 26 lines: MANUAL · INDE4 · M4T5 · COMPRESSOR AMPLIFIER · Technical · Data · Pages) · Operating · Proced.ure · Pages) · st · Pages)"
+ ]
+}
