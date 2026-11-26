@@ -22,7 +22,7 @@ Wiki page: [M415](../../../../PAGES/M415.md)
 - **Words (OCR):** 42 in 39 lines: CI7 · C44 · Ccib · c25 · C26 · NOTES · FOR SCHEMATIcs · [ea · TTm · 415 · 64" · 0o2
 - **Title block:** (288, 9)–(313, 34) mm: DRN · GP · DATE · MAR · CHKD · SCalE · TOLS
 
-Every curve, box, word and wire group: [1971 - M415 - 416-06-001 - MNSBEREGEABHES SEHE ANGLES (traced).json](../SCHEMATICS/1971%20-%20M415%20-%20416-06-001%20-%20MNSBEREGEABHES%20SEHE%20ANGLES%20(traced).json) (the CAD file: `1971 - M415 - 416-06-001 - MNSBEREGEABHES SEHE ANGLES (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M415 - 416-06-001 - MNSBEREGEABHES SEHE ANGLES (traced).json](../SCHEMATICS/1971%20-%20M415%20-%20416-06-001%20-%20MNSBEREGEABHES%20SEHE%20ANGLES%20%28traced%29.json) (the CAD file: `1971 - M415 - 416-06-001 - MNSBEREGEABHES SEHE ANGLES (traced).dxf`).
 
 ## Full text
 

@@ -35,7 +35,7 @@ Wiki page: [M415](../../../../PAGES/M415.md)
 - **Words (OCR):** 45 in 41 lines: 46-0 7 · SEE Dc · Ki07 · Rio · 470 · BOARD · Are · VELUES · OHMS · Resistors · Ric8 · Ves
 - **Wiring (first pass):** 88 connected wire groups from 645 runs, 6 dotted junctions; labelled ends: 238 mm → Ki07, Rio, 244540, Dl40; 141 mm → 4769, C47; 79 mm → CR  =; 42 mm → Ves; 38 mm → C4a
 
-Every curve, box, word and wire group: [1971 - 415-02-002 - COMPRESSOR CONTROL SYSTEM SCHEMATIC - DRN DPS - ISS 3 (2) (traced).json](../SCHEMATICS/1971%20-%20415-02-002%20-%20COMPRESSOR%20CONTROL%20SYSTEM%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%203%20(2)%20(traced).json) (the CAD file: `1971 - 415-02-002 - COMPRESSOR CONTROL SYSTEM SCHEMATIC - DRN DPS - ISS 3 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 415-02-002 - COMPRESSOR CONTROL SYSTEM SCHEMATIC - DRN DPS - ISS 3 (2) (traced).json](../SCHEMATICS/1971%20-%20415-02-002%20-%20COMPRESSOR%20CONTROL%20SYSTEM%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%203%20%282%29%20%28traced%29.json) (the CAD file: `1971 - 415-02-002 - COMPRESSOR CONTROL SYSTEM SCHEMATIC - DRN DPS - ISS 3 (2) (traced).dxf`).
 
 ## Full text
 

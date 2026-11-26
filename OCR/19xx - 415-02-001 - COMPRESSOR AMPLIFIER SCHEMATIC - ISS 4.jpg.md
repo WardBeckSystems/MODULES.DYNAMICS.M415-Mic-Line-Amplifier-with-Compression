@@ -34,7 +34,7 @@ Wide amplifier schematic strip with title block at bottom right.
 - **Words (OCR):** 26 in 24 lines: EXTECNA C ONTAOL · CiRSUIT · 4*7 · 01594 · (-66 · D 547 · CUTPUT · Toc · T4 · ILEYEL · Le · Ico*L
 - **Wiring (first pass):** 128 connected wire groups from 961 runs, 2 dotted junctions; labelled ends: 176 mm → 4*7; 116 mm → Le; 115 mm → R8; 80 mm → Toc, Crs; 68 mm → 244037
 
-Every curve, box, word and wire group: [19xx - 415-02-001 - COMPRESSOR AMPLIFIER SCHEMATIC - ISS 4 (traced).json](../SCHEMATICS/19xx%20-%20415-02-001%20-%20COMPRESSOR%20AMPLIFIER%20SCHEMATIC%20-%20ISS%204%20(traced).json) (the CAD file: `19xx - 415-02-001 - COMPRESSOR AMPLIFIER SCHEMATIC - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 415-02-001 - COMPRESSOR AMPLIFIER SCHEMATIC - ISS 4 (traced).json](../SCHEMATICS/19xx%20-%20415-02-001%20-%20COMPRESSOR%20AMPLIFIER%20SCHEMATIC%20-%20ISS%204%20%28traced%29.json) (the CAD file: `19xx - 415-02-001 - COMPRESSOR AMPLIFIER SCHEMATIC - ISS 4 (traced).dxf`).
 
 ## Full text
 

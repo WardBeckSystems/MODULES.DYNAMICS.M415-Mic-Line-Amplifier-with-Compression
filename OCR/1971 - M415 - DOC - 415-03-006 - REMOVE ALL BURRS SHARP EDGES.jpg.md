@@ -29,7 +29,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 36 in 24 lines: 2 holes 3 2 DIA · 82 "To · 6 DiA . · 4.250 · 2 Holes 32 · DIA · ReMovE ALL Burrs · SHARP EDGES · DRN · D.P s_ · FIMISH · BECK SYSTEDIS Lid
 - **Title block:** (168, 32)–(362, 61) mm: DRN · D.P s_ · FIMISH · 120 · GriT · DATEI7 APRiL 1971 ANODIZE · BLAck · M 415 · MATERIAL · CrD
 
-Every curve, box, word and wire group: [1971 - M415 - DOC - 415-03-006 - REMOVE ALL BURRS SHARP EDGES (traced).json](../MECHANICAL/1971%20-%20M415%20-%20DOC%20-%20415-03-006%20-%20REMOVE%20ALL%20BURRS%20SHARP%20EDGES%20(traced).json) (the CAD file: `1971 - M415 - DOC - 415-03-006 - REMOVE ALL BURRS SHARP EDGES (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M415 - DOC - 415-03-006 - REMOVE ALL BURRS SHARP EDGES (traced).json](../MECHANICAL/1971%20-%20M415%20-%20DOC%20-%20415-03-006%20-%20REMOVE%20ALL%20BURRS%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `1971 - M415 - DOC - 415-03-006 - REMOVE ALL BURRS SHARP EDGES (traced).dxf`).
 
 ## Full text
 

@@ -38,7 +38,7 @@ Mechanical drawing of an M415 mounting bar, title block at bottom right.
 - **Words (OCR):** 38 in 26 lines: 2 holes · 32 DIA · 32 "To · 6 DiA . · 250 · 2 Holes 32 · DIA · ReMovE ALL Burrs · SHARP EDGES · DRN · D.P s_ · MARD BECK SYSTEDIS Lid
 - **Title block:** (168, 32)–(362, 61) mm: DRN · D.P s_ · MARD BECK SYSTEDIS Lid · 120 · GriT · DATEI7 APRiL 1971 ANODIZE · BLAck · M 415 · MATEMIAL · ChkD
 
-Every curve, box, word and wire group: [1971 - 415-03-006 - MOUNTING BAR - ISS 1 (traced).json](../MECHANICAL/1971%20-%20415-03-006%20-%20MOUNTING%20BAR%20-%20ISS%201%20(traced).json) (the CAD file: `1971 - 415-03-006 - MOUNTING BAR - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 415-03-006 - MOUNTING BAR - ISS 1 (traced).json](../MECHANICAL/1971%20-%20415-03-006%20-%20MOUNTING%20BAR%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1971 - 415-03-006 - MOUNTING BAR - ISS 1 (traced).dxf`).
 
 ## Full text
 

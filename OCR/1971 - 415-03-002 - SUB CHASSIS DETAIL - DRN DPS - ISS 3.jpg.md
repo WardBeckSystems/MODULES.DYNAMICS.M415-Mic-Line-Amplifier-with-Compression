@@ -34,7 +34,7 @@ Mechanical drawing of an M415 sub chassis detail, title block at bottom right.
 - **Closed boxes:** 4; named: Firiish GRIT 120 BLAck ANoDiZE; 08x
 - **Words (OCR):** 46 in 34 lines: 2 HOLEs · DIA - · 7S · ~Ic · 5.062 · 16 · 33 · 16 · 8HoLes DLA · mi0 · Dw · I6
 
-Every curve, box, word and wire group: [1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3 (traced).json](../MECHANICAL/1971%20-%20415-03-002%20-%20SUB%20CHASSIS%20DETAIL%20-%20DRN%20DPS%20-%20ISS%203%20(traced).json) (the CAD file: `1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3 (traced).json](../MECHANICAL/1971%20-%20415-03-002%20-%20SUB%20CHASSIS%20DETAIL%20-%20DRN%20DPS%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3 (traced).dxf`).
 
 ## Full text
 

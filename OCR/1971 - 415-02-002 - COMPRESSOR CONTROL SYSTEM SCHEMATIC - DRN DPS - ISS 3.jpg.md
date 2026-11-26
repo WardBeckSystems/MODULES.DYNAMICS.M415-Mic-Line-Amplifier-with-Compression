@@ -35,7 +35,7 @@ Wiki page: [M415](../../../../PAGES/M415.md)
 - **Words (OCR):** 41 in 37 lines: Rio? · INS · NOIE ? · CHEMATIC · Di C · 900 · Ki07 · BOARD · Otherwise · Threstol · Rioa" · UNLE 44
 - **Wiring (first pass):** 90 connected wire groups from 697 runs; labelled ends: 245 mm → Ki07; 167 mm → 743245; 133 mm → Threstol; 63 mm → Rio?; 41 mm → 4279
 
-Every curve, box, word and wire group: [1971 - 415-02-002 - COMPRESSOR CONTROL SYSTEM SCHEMATIC - DRN DPS - ISS 3 (traced).json](../SCHEMATICS/1971%20-%20415-02-002%20-%20COMPRESSOR%20CONTROL%20SYSTEM%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%203%20(traced).json) (the CAD file: `1971 - 415-02-002 - COMPRESSOR CONTROL SYSTEM SCHEMATIC - DRN DPS - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 415-02-002 - COMPRESSOR CONTROL SYSTEM SCHEMATIC - DRN DPS - ISS 3 (traced).json](../SCHEMATICS/1971%20-%20415-02-002%20-%20COMPRESSOR%20CONTROL%20SYSTEM%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1971 - 415-02-002 - COMPRESSOR CONTROL SYSTEM SCHEMATIC - DRN DPS - ISS 3 (traced).dxf`).
 
 ## Full text
 

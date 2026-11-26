@@ -23,7 +23,7 @@ Wiki page: [M415](../../../../PAGES/M415.md)
 - **Words (OCR):** 4 in 4 lines: 39on · 1502 · WARD · TOLS
 - **Wiring (first pass):** 107 connected wire groups from 1,073 runs; labelled ends: 34 mm → TOLS; 24 mm → TOLS; 11 mm → WARD
 
-Every curve, box, word and wire group: [1971 - M415 - 415-02-002 - MUSEEDECRAE BIGE SVEHEONGLES (traced).json](../SCHEMATICS/1971%20-%20M415%20-%20415-02-002%20-%20MUSEEDECRAE%20BIGE%20SVEHEONGLES%20(traced).json) (the CAD file: `1971 - M415 - 415-02-002 - MUSEEDECRAE BIGE SVEHEONGLES (traced).dxf`).
+Every curve, box, word and wire group: [1971 - M415 - 415-02-002 - MUSEEDECRAE BIGE SVEHEONGLES (traced).json](../SCHEMATICS/1971%20-%20M415%20-%20415-02-002%20-%20MUSEEDECRAE%20BIGE%20SVEHEONGLES%20%28traced%29.json) (the CAD file: `1971 - M415 - 415-02-002 - MUSEEDECRAE BIGE SVEHEONGLES (traced).dxf`).
 
 ## Full text
 
