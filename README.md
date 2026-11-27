@@ -58,6 +58,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3 (2).jpg`, `1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3.jpg`, `1971 - 415-03-005 - CONNECTOR MTG. BKT - DRN DPS - ISS 2.jpg`, `1971 - 415-03-006 - MOUNTING BAR - ISS 1.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M415.stl`](MECHANICAL/M415.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M415)
+
+- **Size:** 177.8 × 50.8 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 2 "H X 7 "W X 16"L)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M415 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M415.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
