@@ -13,6 +13,33 @@ Ward-Beck Systems M415, 1971|4. Wiki page: [M415 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 32 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [2 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1971 - M415 - p5.jpg](MANUALS/1971%20-%20M415%20-%20p5.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Attack time** | Less than 100 microseconds |
+| **Recovery time** | second, seconds, seconds |
+| **Phasing** | LoW terminal number of input in phase with low terminal number of output. |
+| **Mute** | Internal mute relay controlled by closure to ground energize to unmute |
+| **Power requirements** | 1l5v AC 6VA |
+| **Ambient temperature** | 00 to 508c |
+| **Dimensions** | 2 &quot;H X 7 &quot;W X 16&quot;L |
+| **Weight** | 5lbs |
+| **Optional noise reduction** |  |
+| &nbsp;&nbsp;Expansion ratio | 2:1 |
+| **Expansion range** | 10 dB |
+| **Expansion threshold** | Factory set 10 to 20 dB below compression threshold |
+| **Attack time** | Less than 50 microseconds |
+| **Release time** | 100 milli seconds |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

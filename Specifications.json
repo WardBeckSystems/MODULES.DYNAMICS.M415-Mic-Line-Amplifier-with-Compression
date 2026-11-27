@@ -1,0 +1,114 @@
+{
+ "module": "M415",
+ "title": "",
+ "source": {
+  "file": "MANUALS/1971 - M415 - p5.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.94,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Attack time",
+   "key": "attack_time",
+   "text": "Less than 100 microseconds"
+  },
+  {
+   "name": "Recovery time",
+   "key": "recovery_time",
+   "text": "second, seconds, seconds"
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "LoW terminal number of input in phase with low terminal number of output."
+  },
+  {
+   "name": "Mute",
+   "key": "mute",
+   "text": "Internal mute relay controlled by closure to ground energize to unmute"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "1l5v AC 6VA",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "v AC"
+    },
+    {
+     "value": 6,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "00 to 508c"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "2 \"H X 7 \"W X 16\"L"
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "5lbs",
+   "quantities": [
+    {
+     "value": 5,
+     "unit": "lbs"
+    }
+   ]
+  },
+  {
+   "name": "Optional noise reduction",
+   "key": "optional_noise_reduction",
+   "text": "",
+   "items": [
+    {
+     "name": "Expansion ratio",
+     "text": "2:1",
+     "quantities": [],
+     "key": "expansion_ratio"
+    }
+   ]
+  },
+  {
+   "name": "Expansion range",
+   "key": "expansion_range",
+   "text": "10 dB",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Expansion threshold",
+   "key": "expansion_threshold",
+   "text": "Factory set 10 to 20 dB below compression threshold",
+   "quantities": [
+    {
+     "from": 10,
+     "to": 20,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Attack time",
+   "key": "attack_time",
+   "text": "Less than 50 microseconds"
+  },
+  {
+   "name": "Release time",
+   "key": "release_time",
+   "text": "100 milli seconds"
+  }
+ ]
+}
