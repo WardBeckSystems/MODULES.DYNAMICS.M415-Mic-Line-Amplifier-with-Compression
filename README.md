@@ -4,13 +4,12 @@ Ward-Beck Systems M415, 1971|4. Wiki page: [M415 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 65 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 24 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 19 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 64 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 23 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 18 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 32 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -56,7 +55,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1ObPdE6lTMpsj6iZvEL6cMV5pHmZBM835/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1ObPdE6lTMpsj6iZvEL6cMV5pHmZBM835" width="240" alt="1971 - M415 - DOC - 415-03-006 - REMOVE ALL BURRS SHARP EDGES.jpg"></a><br><sub>1971|4 · DOC - 415-03-006 - REMOVE ALL BURRS SHARP EDGES · <a href="MECHANICAL/1971%20-%20M415%20-%20DOC%20-%20415-03-006%20-%20REMOVE%20ALL%20BURRS%20SHARP%20EDGES%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3 (2).jpg`, `1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3.jpg`, `1971 - 415-03-005 - CONNECTOR MTG. BKT - DRN DPS - ISS 2.jpg`, `1971 - 415-03-006 - MOUNTING BAR - ISS 1.jpg`
+## 3-D model
+
+[`MECHANICAL/M415.stl`](MECHANICAL/M415.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M415)
+
+- **Size:** 177.8 × 50.8 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 2 "H X 7 "W X 16"L)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M415 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M415.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -93,7 +99,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1971 - M415 - M415 - 8415-02-001 - MICROPHONE INPUT 88 DB MAX. (TRANSDUCER) - COMPONENT LAYOUT p5.kicad_sch](KICAD/1971%20-%20M415%20-%20M415%20-%208415-02-001%20-%20MICROPHONE%20INPUT%2088%20DB%20MAX.%20(TRANSDUCER)%20-%20COMPONENT%20LAYOUT%20p5.kicad_sch)
 - [19xx - 415-02-001 - COMPRESSOR AMPLIFIER SCHEMATIC - ISS 4.kicad_sch](KICAD/19xx%20-%20415-02-001%20-%20COMPRESSOR%20AMPLIFIER%20SCHEMATIC%20-%20ISS%204.kicad_sch)
 - [M415.kicad_sym](KICAD/M415.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
