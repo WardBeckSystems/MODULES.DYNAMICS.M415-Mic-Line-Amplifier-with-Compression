@@ -1,5 +1,5 @@
 # 1971 - 415-02-002 - COMPRESSOR CONTROL SYSTEM SCHEMATIC - DRN DPS - ISS 3.jpg
-Wiki page: [M415](../../../../PAGES/M415.md)
+Wiki page: [M415](../)
 
 
 - **Year:** 1971 (title block date)

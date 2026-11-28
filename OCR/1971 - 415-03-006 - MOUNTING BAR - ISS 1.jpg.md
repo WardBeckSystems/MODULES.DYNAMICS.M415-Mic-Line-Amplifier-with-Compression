@@ -1,5 +1,5 @@
 # 1971 - 415-03-006 - MOUNTING BAR - ISS 1.jpg
-Wiki page: [M415](../../../../PAGES/M415.md)
+Wiki page: [M415](../)
 
 
 - **Year:** 1971 (title block date)

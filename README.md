@@ -1,6 +1,6 @@
 # M415 Mic Line Amplifier with Compression · Dynamics
 
-Ward-Beck Systems M415, 1971|4. Wiki page: [M415 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M415.html)
+Ward-Beck Systems M415, 1971|4. Wiki page: [M415 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M415-Mic-Line-Amplifier-with-Compression/)
 
 | Folder | What is in it | Files |
 |---|---|---|

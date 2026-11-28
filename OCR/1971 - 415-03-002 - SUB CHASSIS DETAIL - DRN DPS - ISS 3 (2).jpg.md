@@ -1,5 +1,5 @@
 # 1971 - 415-03-002 - SUB CHASSIS DETAIL - DRN DPS - ISS 3 (2).jpg
-Wiki page: [M415](../../../../PAGES/M415.md)
+Wiki page: [M415](../)
 
 
 - **Year:** 1971 (title block date)

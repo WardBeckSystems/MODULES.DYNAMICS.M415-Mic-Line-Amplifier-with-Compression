@@ -1,5 +1,5 @@
 # 19xx - 415-02-001 - COMPRESSOR AMPLIFIER SCHEMATIC - ISS 4.jpg
-Wiki page: [M415](../../../../PAGES/M415.md)
+Wiki page: [M415](../)
 
 
 - **Year:** unknown (title block (read by eye))

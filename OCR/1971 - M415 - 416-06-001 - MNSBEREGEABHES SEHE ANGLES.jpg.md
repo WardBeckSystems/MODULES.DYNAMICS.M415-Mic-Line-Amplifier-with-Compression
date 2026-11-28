@@ -1,5 +1,5 @@
 # 1971 - M415 - 416-06-001 - MNSBEREGEABHES SEHE ANGLES.jpg
-Wiki page: [M415](../../../../PAGES/M415.md)
+Wiki page: [M415](../)
 
 
 - **Year:** 1971 (module estimate (labelled))
